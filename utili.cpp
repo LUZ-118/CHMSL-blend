@@ -1318,9 +1318,7 @@ void Utils::EF_based()
     for (auto &item : exe_seq)
         cout << "\nexe_seq: " << item << " ";
     cout << endl;
-
-    exe_seq.clear();
-    exe_seq = {2};
+    
     for (int &i : exe_seq)
     {
         bool check = false;
