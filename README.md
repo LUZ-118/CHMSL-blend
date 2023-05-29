@@ -14,4 +14,4 @@ In "main.cpp", line 17-30 change parameters used in algorithm.
 * ISO C++ 17 
 
 ## High resolution images of blended results
-https://drive.google.com/drive/folders/1J-deo3aMMBK72u9mcZAB0r9rmCSAd8gR?usp=sharing
+https://drive.google.com/drive/folders/1jpwAS0_i7cf9vH0LiCuWRP2cvllEaAvm?usp=share_link
