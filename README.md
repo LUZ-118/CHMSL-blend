@@ -1,5 +1,5 @@
 # CHMSL-color_blending
-code for paper "A GENERAL COLOR CONSISTENCY ENHANCEMENT METHOD USING A CORRELATED HISTOGRAM MATCHING- AND STITCHING LINE-based FUSION APPROACH"
+code for paper "A Two-Stage Fusion-Based Postprocessing Method for Multi-View Color Consistency Enhancement"
 
 ## usage
 
