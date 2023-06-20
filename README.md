@@ -5,7 +5,7 @@ code for paper "A Two-Stage Fusion-Based Postprocessing Method for Multi-View Co
 
 #### How to Adjust Program Parameters
 
-In "main.cpp", line 17-30 change parameters used in algorithm. 
+In the main program "main.cpp", parameters can be set in lines 17-30. 
 
 ## Enviroment
 * Windos 10 64-bit
